@@ -1,1 +1,1 @@
-Ce dossier continendra mon premier ecercice
+Ce dossier contiendra mon premier exercice
