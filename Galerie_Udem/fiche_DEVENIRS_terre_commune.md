@@ -1,7 +1,7 @@
 # DEVENIRS PARTAGES. PRATIQUES DE L'IA.
 
 
-![affiche de l'exposition](./photo/affiche.jpg) ![moi devant l'entrée de l'édifice](./photo/lieu_exposition.jpg)
+![affiche de l'exposition](./photo/affiche.jpg)
 
 > Le 30 Janvier 2026,
 
