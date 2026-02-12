@@ -27,6 +27,8 @@ L’image change constamment selon l’état mental du participant, ce qui crée
 
 ## Organisation de l'installation
 
+<img src="./photo/croquis.jpg" alt="Croquis de l'oeuvre"> 
+
 Dans la salle d’exposition, l’œuvre Terre commune est installée de manière à structurer une expérience assise et dirigée vers l’avant. Le visiteur prend place sur un banc, sous lequel se trouve l’ordinateur qui fait fonctionner le dispositif. Cette intégration rend la technologie discrète tout en restant physiquement présente dans l’espace.
 
 <img src="./photo/composante_ordinateur.jpg" alt="Ordinateur sous le banc" width="600"> 
@@ -37,7 +39,7 @@ En diagonale par rapport au banc, un moniteur est positionné pour recevoir et a
 
 Pour que l’œuvre puisse être présentée correctement, certains éléments simples mais essentiels sont nécessaires, notamment un mur blanc servant de surface de projection et un banc permettant au visiteur de s’asseoir et de vivre l’expérience dans une position stable. L’ensemble crée un dispositif à la fois technique et minimal, où chaque élément a une fonction précise.
 
-<img src="./photo/croquis.jpg" alt="Croquis de l'oeuvre" width="600"> 
+<img src="./photo/element_mur_blanc.jpg" alt="Croquis de l'oeuvre" width="600"> 
 
 Composantes:
 - Ordinateur
