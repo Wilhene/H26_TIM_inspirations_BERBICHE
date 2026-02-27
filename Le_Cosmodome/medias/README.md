@@ -1,1 +1,1 @@
-Ce dossier contiendra toutes les vidéos jugées pertinentes lors de la visite de l'exposition du Cosmodôme
+Ce dossier contiendra tous les médias visuels jugés pertinents lors de la visite de l'exposition du Cosmodôme.
