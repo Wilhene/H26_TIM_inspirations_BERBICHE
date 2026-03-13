@@ -41,10 +41,6 @@ La **fonction** du dispositif est de plonger les visiteurs dans une simulation i
 
 L’installation ***La planète rouge*** est organisée sous forme d’un parcours séquentiel composé de plusieurs salles thématiques reliées entre elles par des couloirs scénographiés rappelant l’intérieur d’un vaisseau spatial. Chaque salle présente une étape différente de la mission vers Mars et combine capsules audiovisuelles et activités interactives.
 
-<img src="./medias/photo/element_couloir.jpg" alt="Couloir scénographié reliant les différentes salles de l’expérience immersive Mission virtuelle : La planète rouge." width="400"> 
-
-> Photo de l’un des couloirs scénographiés reliant les différentes salles de l’expérience immersive.
-
 ### Salle A2 - Première salle
 
 La première salle sert d’introduction à l’expérience. En entrant dans la pièce, les visiteurs aperçoivent la porte menant à la salle suivante située droit devant eux. Sur la gauche, deux bancs permettent aux participants de s’asseoir face à un mur où est projetée une capsule vidéo immersive. Devant les bancs se trouve une barrière de sécurité séparant les visiteurs d’un espace légèrement en contrebas. 
@@ -127,6 +123,12 @@ Composantes:
 - Système de ventilation
 
 ## Expérience et appréciation de l’œuvre
+
+Le parcours de l’expérience suit un trajet précis à travers les différentes salles. En entrant dans l’installation, les visiteurs commencent dans la salle A2. Pour accéder à la salle A3, ils doivent se diriger vers la porte de sortie de la première salle et emprunter le couloir reliant les deux espaces. Dans ce couloir, il faut marcher tout droit, tourner à gauche, puis continuer tout droit jusqu’à atteindre la salle A3. Pour passer de la salle A3 à la salle A4, les visiteurs traversent simplement l’espace de la salle vers la porte menant à la prochaine section, car ces deux salles sont directement reliées sans couloir. Pour rejoindre la salle B1, il faut sortir de la salle A4 et entrer dans le couloir adjacent, puis tourner immédiatement à gauche pour arriver dans la salle suivante. Ensuite, pour passer de la salle B1 à la salle C1, les visiteurs empruntent un autre couloir et se dirigent en diagonale vers la droite afin d’atteindre la salle C1. Pour accéder à la dernière salle, il suffit de marcher tout droit vers la porte suivante, car aucun couloir ne relie ces deux espaces. Enfin, la sortie de l’expérience se fait en continuant tout droit vers la porte de sortie située au bout de la dernière salle.
+
+<img src="./medias/photo/element_couloir.jpg" alt="Couloir scénographié reliant les différentes salles de l’expérience immersive Mission virtuelle : La planète rouge."> 
+
+> Photo de l’un des couloirs scénographiés reliant les différentes salles de l’expérience immersive.
 
 Ce que j’ai particulièrement apprécié dans cette installation est la présence de plusieurs activités interactives réparties dans différentes salles. Les jeux proposés sont variés et demandent la participation des visiteurs, ce qui rend l’expérience dynamique et intéressante. L’utilisation du bracelet interactif contribue également à renforcer l’immersion, car il permet d’activer les dispositifs et donne l’impression de faire réellement partie de l’équipage du vaisseau.
 
