@@ -15,9 +15,9 @@ L’exposition immersive ***La planète rouge***, présentée au **Cosmodôme** 
 ## Présentation du dispositif
 Le dispositif étudié, ***La planète rouge*** **(2011)**, conçu par la firme **GSM Project**, est une installation **immersive** et **interactive** qui propose aux visiteurs de participer à une mission simulée vers la planète Mars.
 
-<img src="./medias/photo/texte_explicatif.jpg" alt="Texte explicatif du dispositif" width="400">
+<img src="./medias/photo/texte_explicatif.jpg" alt="Texte explicatif du dispositif">
 
-> ---------------------------------------------
+> Capture d'écran du site web https://cosmodome.org/activites-familiale/missions-virtuelles/, consulté le 21 janvier 2024.
 
 **GSM Project** est une firme montréalaise spécialisée dans la conception d’expositions muséales et d’expériences immersives. L’entreprise développe des installations qui combinent scénographie, technologies multimédias et interaction afin de rendre les contenus scientifiques et culturels plus accessibles au public.
 
@@ -33,7 +33,7 @@ Dans ***La planète rouge***, les visiteurs prennent part à une mission spatial
 - Type d'installation: Interactive & immersive
 
 ## Organisation de l'installation
-La **fonction** du dispositif est de plonger les visiteurs dans une simulation immersive de mission spatiale vers la planète Mars. Dès le début de l’expérience, les participants prennent place dans la capsule d’un vaisseau spatial et quittent symboliquement la Terre pour entreprendre un voyage vers la planète rouge. Au cours de cette mission, les visiteurs doivent faire face à différentes situations imprévisibles liées au voyage spatial. Ils doivent s’adapter à des conditions de déplacement extrêmes, collaborer pour résoudre des problèmes techniques et veiller au maintien de la santé physique et mentale de l’équipage. L’installation met ainsi les participants dans la peau d’astronautes devant accomplir une mission complexe à plusieurs milliards de kilomètres de la Terre. 
+La **fonction** du dispositif est de plonger les visiteurs dans une simulation immersive de mission spatiale vers la planète Mars. Avant le début de l’expérience, les visiteurs reçoivent également un bracelet interactif RFID, qui leur permet d’activer les différentes stations et de participer aux activités interactives tout au long du parcours. Dès le début de l’expérience, les participants prennent place dans la capsule d’un vaisseau spatial et quittent symboliquement la Terre pour entreprendre un voyage vers la planète rouge. Au cours de cette mission, les visiteurs doivent faire face à différentes situations imprévisibles liées au voyage spatial. Ils doivent s’adapter à des conditions de déplacement extrêmes, collaborer pour résoudre des problèmes techniques et veiller au maintien de la santé physique et mentale de l’équipage. L’installation met ainsi les participants dans la peau d’astronautes devant accomplir une mission complexe à plusieurs milliards de kilomètres de la Terre. 
 
 L’installation La planète rouge est organisée sous forme d’un parcours séquentiel composé de plusieurs salles thématiques reliées entre elles par des couloirs scénographiés rappelant l’intérieur d’un vaisseau spatial. Chaque salle présente une étape différente de la mission vers Mars et combine capsules audiovisuelles et activités interactives.
 
@@ -43,7 +43,7 @@ La première salle sert d’introduction à l’expérience. En entrant dans la 
 
 Dans cet espace sont dissimulés les équipements techniques, notamment un projecteur et des haut-parleurs, qui permettent de diffuser la projection audiovisuelle. Cette capsule sert à introduire la mission et à placer les visiteurs dans le contexte du voyage vers Mars. À la fin de la projection, la porte s’ouvre menant à la salle suivante vers la salle suivante : A3.
 
-<img src="./medias/photo/croquis_salle_a2.jpg" alt="Croquis représentatif de la salle A2 de l'expérience immersive" width="400">
+<img src="./medias/photo/croquis_salle_a2.jpg" alt="Croquis représentatif de la salle A2 de l'expérience immersive">
 
 > Croquis représentatif de la salle A2 de l'expérience immersive
 
@@ -53,7 +53,7 @@ La seconde salle est de forme carrée. Au centre de l’espace se trouve un pili
 
 Le plafond est équipé de haut-parleurs qui diffusent le contenu audio des capsules. Cette salle sert principalement à présenter des informations supplémentaires sur la mission et le voyage vers Mars. Une porte située en diagonale de l’entrée mène ensuite vers la salle suivante: A4.
 
-<img src="./medias/photo/croquis_salle_a3.jpg" alt="Croquis représentatif de la salle A3 de l'expérience immersive" width="400">
+<img src="./medias/photo/croquis_salle_a3.jpg" alt="Croquis représentatif de la salle A3 de l'expérience immersive">
 
 > Croquis représentatif de la salle A3 de l'expérience immersive
 
@@ -61,9 +61,9 @@ Le plafond est équipé de haut-parleurs qui diffusent le contenu audio des caps
 
 La troisième salle est rectangulaire et introduit la première activité interactive. En entrant, les visiteurs aperçoivent un pilier lumineux décoratif composé de plusieurs bandes lumineuses verticales. Sur le côté droit de la pièce se trouvent quatre stations interactives, disposées de manière similaire à des bureaux face à un écran principal.
 
-Chaque station comprend deux écrans tactiles, permettant à deux participants de jouer simultanément. Les stations comportent également des zones circulaires de scan permettant d’activer les dispositifs grâce au bracelet interactif remis aux visiteurs avant le début de l'expérience immersive. Dans cette activité, les participants doivent programmer les déplacements d’un véhicule d’exploration spatiale en planifiant une série de mouvements directionnels. Une fois les commandes programmées, le véhicule suit les instructions données afin d’atteindre une destination précise sur la carte. Une porte située au fond en face de la porte de l’entrée qui mène ensuite vers la salle suivante: B1.
+Chaque station comprend deux écrans tactiles, permettant à deux participants de jouer simultanément. Les stations comportent également des zones circulaires de scan permettant d’activer les dispositifs grâce au bracelet interactif. Dans cette activité, les participants doivent programmer les déplacements d’un véhicule d’exploration spatiale en planifiant une série de mouvements directionnels. Une fois les commandes programmées, le véhicule suit les instructions données afin d’atteindre une destination précise sur la carte. Une porte située au fond en face de la porte de l’entrée qui mène ensuite vers la salle suivante: B1.
 
-<img src="./medias/photo/croquis_salle_a4.jpg" alt="Croquis représentatif de la salle A4 de l'expérience immersive" width="400">
+<img src="./medias/photo/croquis_salle_a4.jpg" alt="Croquis représentatif de la salle A4 de l'expérience immersive">
 
 > > Croquis représentatif de la salle A4 de l'expérience immersive
 
@@ -73,7 +73,7 @@ La salle suivante est rectangulaire et propose une seconde activité interactive
 
 Certains murs sont recouverts de grands miroirs, ce qui agrandit visuellement l’espace et renforce l’effet immersif de l’installation. Un écran mural diffuse également une capsule vidéo liée à la mission. Les participants doivent réaliser plusieurs tests simulant les compétences nécessaires pour piloter un vaisseau spatial. Parmi ces tests se trouvent un exercice de mémoire, un exercice de repérage visuel sur une carte de Mars, ainsi qu’un test final de pilotage consistant à guider un vaisseau à travers des anneaux. Une porte située au fond à droite de la porte de l’entrée qui mène ensuite vers la salle suivante: C1.
 
-<img src="./medias/photo/croquis_salle_b1.jpg" alt="Croquis représentatif de la salle B1 de l'expérience immersive" width="400">
+<img src="./medias/photo/croquis_salle_b1.jpg" alt="Croquis représentatif de la salle B1 de l'expérience immersive">
 
 > Croquis représentatif de la salle B1 de l'expérience immersive
 
@@ -83,7 +83,7 @@ La salle suivante présente la troisième et dernière activité interactive. Au
 
 Dans cette activité, les participants doivent identifier différentes images apparaissant sur la carte de Mars et retrouver ces images sur les écrans situés sur les murs. Lorsqu’une image correcte est trouvée, elle est validée et ajoutée à la carte projetée sur la table. Une porte située au fond en face de la porte de l’entrée qui mène ensuite vers la dernière salle.
 
-<img src="./medias/photo/croquis_salle_c1.jpg" alt="Croquis représentatif de la salle C1 de l'expérience immersive" width="400">
+<img src="./medias/photo/croquis_salle_c1.jpg" alt="Croquis représentatif de la salle C1 de l'expérience immersive">
 
 > Croquis représentatif de la salle C1 de l'expérience immersive
 
@@ -91,7 +91,7 @@ Dans cette activité, les participants doivent identifier différentes images ap
 
 La dernière salle sert de conclusion à l’expérience. Il s’agit d’un espace rectangulaire allongé comprenant des bancs disposés le long du mur gauche, permettant aux visiteurs de s’asseoir. Sur le mur opposé se trouvent trois grands écrans accompagnés de dispositifs d’éclairage. Une dernière capsule vidéo y est diffusée afin de conclure la mission et de résumer l’expérience vécue. La sortie de l’exposition se trouve à l’extrémité de cette salle.
 
-<img src="./medias/photo/croquis_derniere_salle.jpg" alt="Croquis représentatif de la dernière salle de l'expérience immersive" width="400">
+<img src="./medias/photo/croquis_salle_ds.jpg" alt="Croquis représentatif de la dernière salle de l'expérience immersive">
 
 > Croquis représentatif de la dernière salle de l'expérience immersive
 
@@ -103,7 +103,7 @@ Composantes:
 - Stations interactive
 - Projecteurs
 - Haut-parleurs
-- Bracelet interactif
+- Bracelet interactif RFID
 - Zones circulaires de scan (capteurs)
 - Système d’éclairage intégré (piliers lumineux, lumières d’ambiance)
 
