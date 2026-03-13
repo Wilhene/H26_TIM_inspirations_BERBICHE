@@ -39,9 +39,11 @@ La **fonction** du dispositif est de plonger les visiteurs dans une simulation i
 
 > Capture d'écran de l'article « Bracelet RFID » du site web https://boutique.semageek.com/fr/1500-bracelet-rfidnfc-1356mhz-puce-ntag203-3002365582174.html, consulté le 12 mars 2026.
 
-L’installation La planète rouge est organisée sous forme d’un parcours séquentiel composé de plusieurs salles thématiques reliées entre elles par des couloirs scénographiés rappelant l’intérieur d’un vaisseau spatial. Chaque salle présente une étape différente de la mission vers Mars et combine capsules audiovisuelles et activités interactives.
+L’installation ***La planète rouge*** est organisée sous forme d’un parcours séquentiel composé de plusieurs salles thématiques reliées entre elles par des couloirs scénographiés rappelant l’intérieur d’un vaisseau spatial. Chaque salle présente une étape différente de la mission vers Mars et combine capsules audiovisuelles et activités interactives.
 
 <img src="./medias/photo/element_couloir.jpg" alt="Couloir scénographié reliant les différentes salles de l’expérience immersive Mission virtuelle : La planète rouge." width="400"> 
+
+> Photo de l’un des couloirs scénographiés reliant les différentes salles de l’expérience immersive.
 
 ### Salle A2 - Première salle
 
