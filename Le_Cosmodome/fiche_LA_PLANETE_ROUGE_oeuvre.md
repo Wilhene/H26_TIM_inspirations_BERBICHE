@@ -51,7 +51,7 @@ La première salle sert d’introduction à l’expérience. En entrant dans la 
 
 Dans cet espace sont dissimulés les équipements techniques, notamment un projecteur et des haut-parleurs, qui permettent de diffuser la projection audiovisuelle. Cette capsule sert à introduire la mission et à placer les visiteurs dans le contexte du voyage vers Mars. À la fin de la projection, la porte s’ouvre menant à la salle suivante vers la salle suivante : A3.
 
-<img src="./medias/photo/croquis_salle_a2.jpg" alt="Croquis représentatif de la salle A2 de l'expérience immersive">
+<img src="./medias/photo/croquis_salle__a2.jpg" alt="Croquis représentatif de la salle A2 de l'expérience immersive">
 
 > Croquis représentatif de la salle A2 de l'expérience immersive
 
