@@ -1,32 +1,32 @@
-# DEVENIRS PARTAGES. PRATIQUES DE L'IA.
+# RÉSEAU VIVANT
 
 <img src="./photo/affiche.jpg" alt="affiche de l'exposition" width="400"/> <img src="./photo/lieu_exposition.jpg" alt="Moi devant le lieu de l'exposition" width="400"/>
 
 > À gauche figure une photo de l'affiche de l'exposition. À droite, une photo de moi devant le lieu où se tenait l'exposition. <br>
 
 ## Contexte de l'exposition
-**L’exposition Devenirs partagés : pratiques de l’IA** s’inscrit dans un contexte de recherche-création explorant des usages critiques et sensibles de l’intelligence artificielle. Présentée à **l’Université de Montréal**, elle réunit plusieurs artistes invités à expérimenter des approches alternatives aux imaginaires dominants de l’IA, souvent associés à l’automatisation.
+L’exposition **Réseau vivant** s’inscrit dans le cadre du cours synthèse Expérience multimédia interactive offert au **Collège Montmorency**. Elle regroupe les projets de création réalisés par les étudiant·e·s finissant·e·s du programme, mettant en pratique les compétences acquises tout au long de leur formation.
 
-L’exposition invite plutôt à voir l’intelligence artificielle comme un outil de relation et de réflexion, qui permet de mieux comprendre les liens entre les humains, la technologie et leur environnement.
+Ces projets prennent la forme d’expériences multimédias interactives conçues en équipe, allant de la conceptualisation jusqu’à la présentation finale. L’exposition met en valeur des installations, des parcours ou des performances interactives ancrées dans un environnement physique, combinant programmation, design graphique, vidéo et sonore.
 
 - Date de visite : **17 mars 2026**
 - Type d'exposition: **Intérieure et Temporaire**
 
 ## Présentation de l'oeuvre
-L’œuvre étudiée, **Terre commune (2025)** de **Marion Schneider**, est une **installation interactive** qui explore les liens entre le corps humain, la nature et les systèmes informatiques.
+L’œuvre étudiée, **Terminal (2026)**, est une installation interactive réalisée par une équipe de cinq étudiant·e·s finissant·e·s en technique d’intégration multimédia.
 
 <img src="./photo/vue_ensemble_oeuvre.jpg" alt="Une vue d'ensemble de l'oeuvre" width="600"> <img src="./photo/cartel.jpg" alt="Cartel de l'oeuvre" width="400">
 
-> Oeuvre de Marion Schneider, *Terre commune*, 2025, présentée lors de l'exposition **DEVENIRS PARTAGÉS. PRATIQUES DE L'IA. 2026**, ainsi que son cartel d'informations.
+> Oeuvre de l'équipe Terminal, *Terminal*, 2026, présentée lors de l'exposition **RÉSEAU. 2026**, ainsi que son cartel d'informations.
 
-**Marion Schneider** est une artiste numérique basée à Montréal. Elle utilise l’installation, la programmation et les technologies interactives pour aborder des thèmes comme l’écologie, la perception et la relation entre les humains et les machines.
+L’équipe est composée de cinq étudiant·e·s finissant·e·s en technique d’intégration multimédia. Ils utilisent la programmation et le design interactif pour créer une expérience de jeu immersive et collaborative.
 
-Dans Terre commune, l’activité cérébrale du visiteur est captée grâce à un capteur porté sur la tête. Ces données modifient en temps réel un paysage créé par intelligence artificielle, inspiré d’éléments naturels comme la mousse, les lichens et les textures du sol.
-L’image change constamment selon l’état mental du participant, ce qui crée une interaction où l’humain et la machine participent ensemble à la création du visuel.
+Terminal est un jeu collaboratif pouvant accueillir jusqu’à six joueurs. Chaque participant contrôle un opérateur à l’aide de son téléphone, qui agit comme une manette. L’objectif est de traverser différents niveaux afin de restaurer un ancien réseau informatique corrompu par une cyberattaque.
+Dans le jeu, chaque déplacement laisse une trace qui devient un obstacle pour les autres joueurs. Cette mécanique oblige les participants à communiquer, se coordonner et réfléchir ensemble pour atteindre la fin des niveaux sans être éliminés. Si un joueur échoue, toute l’équipe doit recommencer, ce qui renforce l’aspect collectif de l’expérience.
 
-- Titre de l'oeuvre: Terre commune
-- Nom de l'artiste : Marion Schneider
-- Année de réalisation : 2025
+- Titre de l'oeuvre: Terminal
+- Nom des artistes : Émeryk Bélisle, Elie Daher, Ting Yung Lu Terry, Dana Saavedra-Torrano et Mégane Ranger
+- Année de réalisation : 2026
 - Type d'installation: Interactive
 
 ## Organisation de l'installation
@@ -35,13 +35,13 @@ L’image change constamment selon l’état mental du participant, ce qui crée
 
 > Croquis représentatif de comment est disposée l'oeuvre choisie.
 
-Dans la salle d’exposition, l’œuvre Terre commune est installée de manière à structurer une expérience assise et dirigée vers l’avant. Le visiteur prend place sur un banc, sous lequel se trouve l’ordinateur qui fait fonctionner le dispositif. Cette intégration rend la technologie discrète tout en restant physiquement présente dans l’espace.
+Dans la salle d’exposition, les joueurs doivent d’abord scanner un code QR avec leur téléphone afin de se connecter au jeu. Ils prennent ensuite place sur des poufs, face à une grande projection où se déroule la partie.
 
 <img src="./photo/composante_ordinateur.jpg" alt="Ordinateur sous le banc" width="600"> 
 
 > Photo de l'une des composantes nécessaires à la conception de l'oeuvre.
 
-En diagonale par rapport au banc, un moniteur est positionné pour recevoir et afficher les signaux transmis par le capteur placé sur le front du participant. Derrière le visiteur, un projecteur est installé et envoie l’image vers le mur situé en face, créant un lien visuel direct entre l’expérience corporelle du participant et la projection observée.
+En diagonale par rapport aux poufs, se trouve un podium sur lequel sont installés le routeur Wi-Fi ainsi que le code QR permettant d’accéder au jeu scannés plutot avant de s'assoiere.
 
 <img src="./photo/composante_ecran.jpg" alt="Ecran où est diffusé les ondes" width="300"> <img src="./photo/composante_projecteur.jpg" alt="un projecteur" width="300"> <img src="./photo/composante_capteur.jpg" alt="Capteur mis sur le front" width="300"> 
 
