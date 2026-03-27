@@ -35,34 +35,36 @@ Dans le jeu, chaque déplacement laisse une trace qui devient un obstacle pour l
 
 > Croquis représentatif de comment est disposée l'oeuvre choisie.
 
-Dans la salle d’exposition, les joueurs doivent d’abord scanner un code QR avec leur téléphone afin de se connecter au jeu. Ils prennent ensuite place sur des poufs, face à une grande projection où se déroule la partie.
+Dans la salle d’exposition, les joueurs doivent d’abord scanner un code QR placé sur un podium afin de se connecter au jeu avec leur téléphone. Une fois connectés, ils prennent place sur des poufs, face à une grande projection où se déroule la partie.
 
-<img src="./photo/composante_ordinateur.jpg" alt="Ordinateur sous le banc" width="600"> 
+<img src="./photo/element_podium.jpg" alt="Un routeur sur un podium" width="400">  <img src="./photo/element_poufs.jpg" alt="Plusieurs poufs où prendre place" width="600"> 
 
-> Photo de l'une des composantes nécessaires à la conception de l'oeuvre.
+> Photos de quelques éléments nécessaires à la conception de l'oeuvre.
 
-En diagonale par rapport aux poufs, se trouve un podium sur lequel sont installés le routeur Wi-Fi ainsi que le code QR permettant d’accéder au jeu scannés plutot avant de s'assoiere.
+Le podium, situé en diagonale sur la droite, regroupe des éléments nécessaires au démarrage de l’expérience, soit un routeur Wi-Fi et le code QR permettant l’accès au jeu.
+ 
+<img src="./photo/composante_routeur.jpg" alt="Un routeur Wi-Fi" width="400">
 
-<img src="./photo/composante_ecran.jpg" alt="Ecran où est diffusé les ondes" width="300"> <img src="./photo/composante_projecteur.jpg" alt="un projecteur" width="300"> <img src="./photo/composante_capteur.jpg" alt="Capteur mis sur le front" width="300"> 
+> Photo du routeur nécessaire à la conception de l'oeure.
+
+De chaque côté, en hauteur, des haut-parleurs diffusent le son de l’expérience. À l’arrière de l’espace, un ordinateur principal placé sur un chariot exécute le jeu, gère les connexions et contrôle la projection. Juste au-dessus, un projecteur affiche le jeu en grand format sur un mur blanc.
+
+<img src="./photo/composante_haut_parleurs.jpg" alt="Des haut-parleurs" width="400"> <img src="./photo/composante_ordinateur_chariot.jpg" alt="Un ordinateur sur un chariot" width="400"> <img src="./photo/composante_projecteur.jpg" alt="Un projecteur" width="400"> <img src="./photo/element_mur_blanc.jpg" alt="Vue d'ensemble de l'oeuvre prise pour accentuer le mur sur lequel est projetté les images" width="600"> 
 
 > Photos d'autres composantes nécessaires à la conception de l'oeuvre.
+> Pour la quatrième photo nous avons Oeuvre de l'équipe Terminal, *Terminal*, 2026, présentée lors de l'exposition **RÉSEAU. 2026**, prise dans un angle pour accentuer les éléments nécessaires à une bonne présentation.
 
-Pour que l’œuvre puisse être présentée correctement, certains éléments simples mais essentiels sont nécessaires, notamment un mur blanc servant de surface de projection et un banc permettant au visiteur de s’asseoir et de vivre l’expérience dans une position stable. L’ensemble crée un dispositif à la fois technique et minimal, où chaque élément a une fonction précise.
-
-<img src="./photo/element_mur_blanc.jpg" alt="Projection des images sur un mur blanc" width="600"> 
-
-> Photo de l’œuvre de Marion Schneider, *Terre commune*, 2025, présentée lors de l’exposition **DEVENIRS PARTAGÉS. PRATIQUES DE L’IA. 2026**, prise dans un angle pour accentuer les éléments nécessaires à une bonne présentation.
-
-Composantes:
-- Ordinateur
-- Écran
+Composantes et techniques
+- Ordinateur principal
+- Téléphones
 - Projecteur
-- Capteur
-- Câbles électrique
+- Routeur Wi-Fi
+- Haut-parleurs
 
-Éléments nécessaires à la mise en exposition:
-- Mur blanc
-- Banc
+Éléments nécessaires à la mise en exposition
+- Podium
+- Mur blanc 
+- Poufs 
 
 ## Expérience et appréciation de l'oeuvre
 
