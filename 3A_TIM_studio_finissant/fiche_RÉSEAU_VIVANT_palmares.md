@@ -1,8 +1,10 @@
+# Palmarès de l'exposition RÉSEAU VIVANT : classement par ordre de préférence
+
 |:pencil2: Information recherchée  | :camera: Appui visuel à intégrer | Détails supplémentaires |
 | ---     | ---             | --- |
 | No ordre de préférence : 2 || |
-| Symbiose || |
-| == Noms des créateurs et créatrices == <br> Yannick Chamberland <br> Benjamin Ferland <br> Ryan Dufault <br> Walid Cheour|| |
+| **Symbiose** || |
+| == Noms des créateurs et créatrices == <br> Yannick Chamberland <br> Benjamin Ferland <br> Ryan Dufault <br> Walid Cheour || |
 | Installation en cours (ou finale)|photo de l'ensemble de l'installation dans le studio| |
 | Schéma de l'installation prévue| schéma de mise en espace (*plantation* ou *implantation*)|télécharger le dessin à partir de la documentation GitHub de l'équipe, et indiquer la source dans la légende et le nom du fichier|
 | Ce que vous ressentez en expérimentant chacune des installations, avec justification (avant/après l'expérimentation)|| |
