@@ -43,15 +43,16 @@ Dans la salle d’exposition, les joueurs doivent d’abord scanner un code QR p
 
 Le podium, situé en diagonale sur la droite, regroupe des éléments nécessaires au démarrage de l’expérience, soit un routeur Wi-Fi et le code QR permettant l’accès au jeu.
  
-<img src="./photo/composante_routeur.jpg" alt="Un routeur Wi-Fi" width="400">
+<img src="./photo/composante_routeur.jpg" alt="Un routeur Wi-Fi" width="400"> <img src="./photo/composante_telephone.jpg" alt="Interface sur le téléphone une fois le code QR scanné" width="400"> 
 
-> Photo du routeur nécessaire à la conception de l'oeure.
+> Sur la gauche, une photo du routeur nécessaire à la conception de l'oeure. <br>
+> Sur la droite, une photo de l'interface sur le téléphone de l'utilisateur une fois le code QR scanné.
 
 De chaque côté, en hauteur, des haut-parleurs diffusent le son de l’expérience. À l’arrière de l’espace, un ordinateur principal placé sur un chariot exécute le jeu, gère les connexions et contrôle la projection. Juste au-dessus, un projecteur affiche le jeu en grand format sur un mur blanc.
 
 <img src="./photo/composante_haut_parleurs.jpg" alt="Des haut-parleurs" width="400"> <img src="./photo/composante_ordinateur_chariot.jpg" alt="Un ordinateur sur un chariot" width="400"> <img src="./photo/composante_projecteur.jpg" alt="Un projecteur" width="400"> <img src="./photo/element_mur_blanc.jpg" alt="Vue d'ensemble de l'oeuvre prise pour accentuer le mur sur lequel est projetté les images" width="600"> 
 
-> Photos d'autres composantes nécessaires à la conception de l'oeuvre.
+> Photos de quelques composantes nécessaires à la conception de l'oeuvre.
 > Pour la quatrième photo nous avons Oeuvre de l'équipe Terminal, *Terminal*, 2026, présentée lors de l'exposition **RÉSEAU. 2026**, prise dans un angle pour accentuer les éléments nécessaires à une bonne présentation.
 
 Composantes et techniques
@@ -68,22 +69,19 @@ Composantes et techniques
 
 ## Expérience et appréciation de l'oeuvre
 
-Le parcours pour accéder à l’installation est très simple. En entrant dans la salle, il suffit de marcher tout droit pour arriver à Terre commune. Il n’y a pas de mise en scène compliquée, ce qui permet de découvrir l’œuvre naturellement.
+Pour accéder à l’installation Terminal, il suffit d’entrer dans la salle et de se diriger en diagonale vers la gauche. L’emplacement est facile à trouver et le parcours est simple à comprendre.
 
 <img src="./photo/vue_ensemble_exposition.jpg" alt="Vue d'ensemble de l'exposition" width="600"> 
 
 > Photo d'une vue d'ensemble de la salle d'exposition
 
-Ce qui m’a particulièrement plu est l’aspect interactif lié au capteur. Le fait d’essayer de stabiliser mon cerveau pour calmer les ondes et les lignes affichées à l’écran rend l’expérience très personnelle. On prend conscience de son propre état mental et on tente de le contrôler, ce qui crée un moment de concentration inhabituel et engage réellement le participant dans l’œuvre.
+Ce que j’ai particulièrement aimé est le fait que le jeu s’adapte automatiquement au nombre de joueurs. Lorsqu’une nouvelle personne rejoint la partie, le niveau change pour s’ajuster (2 joueurs, puis 3, etc., jusqu’à 6). Cela rend l’expérience dynamique et intéressante.
+J’ai aussi apprécié le niveau de difficulté, qui correspond bien à ce que j’aime dans les jeux, ce qui a rendu l’expérience encore plus engageante.
 
-Cependant, un aspect que je ne retiendrais pas dans une création personnelle concerne l’installation de l’ordinateur sous le banc. Il n’est pas protégé, ce qui présente un risque : si le banc se brisait ou si quelqu’un s’asseyait brusquement, l’ordinateur pourrait être endommagé et cela pourrait même causer une blessure. Pour améliorer ce point, je placerais l’ordinateur à côté, dans un boîtier ou une structure de protection, afin d’assurer la sécurité du matériel et des visiteurs.
+Un aspect que je ferais différemment concerne le routeur Wi-Fi, qui est placé à l’air libre. Cela peut représenter un risque, car il pourrait être déplacé ou débranché facilement, ce qui interromprait le jeu. Une installation plus sécurisée serait préférable.
 
 ## Références
-- Photographe pour toute la documentation : Berbiche, Wilhene <br>
-- Photographe pour la photo de moi devant le lieu de l'exposition: Nguyen, Phu Thanh. <br>
+- Photographe pour toute la documentation : Berbiche, Wilhene
 
 Liens consultés:
-- (https://schneidermarion.net/)
-- (https://nouvelles.umontreal.ca/article/2025/12/04/quatre-artistes-repensent-l-intelligence-artificielle)
-# Référence
 - (https://pythons-5.github.io/Terminal/#/)
