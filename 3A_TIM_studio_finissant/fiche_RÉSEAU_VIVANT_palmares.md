@@ -32,9 +32,9 @@ TouchDesigner est un logiciel de Derivative qui permet de créer des application
 
 ## **Océean rouge** - 3ème🥉
 
-<img src="./photo/vue_ensemble_ocean_rouge.jpg" alt="Vue d'ensemble de l'oeuvre Océean rouge" width=400>
+<img src="./photo/vue_ensemble_ocean_rouge.jpg" alt="Vue d'ensemble de l'oeuvre Océan rouge" width=400>
 
-> Installation finale de l'oeuvre de l'équipe Océean rouge, *Océean rouge*, 2026, présentée lors de l'exposition **RÉSEAU. 2026**. <br>
+> Installation finale de l'oeuvre de l'équipe Océan rouge, *Océan rouge*, 2026, présentée lors de l'exposition **RÉSEAU. 2026**. <br>
 > Noms des créateurs et créatrices: **Amira Tounekti** et **Kristy Moussally**.
 
 ### Schéma de l'installation prévue
@@ -125,7 +125,7 @@ Le logiciel Autodesk Maya est un outil professionnel de création 3D utilisé po
 
 ## **Quand les yeux se croisent** - 6ème🏅
 
-<img src="./photo/vue_ensemble_arbre.jpg" alt="Vue d'ensemble de l'oeuvre Quand les yeux se croisent" width=400>
+<img src="./photo/vue_ensemble_yeux.jpg" alt="Vue d'ensemble de l'oeuvre Quand les yeux se croisent" width=400>
 
 > Installation finale de l'oeuvre de l'équipe Quand les yeux se croisent, *Quand les yeux se croisent*, 2026, présentée lors de l'exposition **RÉSEAU. 2026**. <br>
 > Noms des créateurs et créatrices: **Edelwyn Ledru**, **Félix Lavoie**, **Jade Hébert**, **Manel Yaya** et **Patricia Nassif**.
