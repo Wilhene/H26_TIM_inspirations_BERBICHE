@@ -5,19 +5,19 @@
 > À gauche figure une photo de l'affiche de l'exposition. À droite, une photo de moi devant le lieu où se tenait l'exposition. <br>
 
 ## Contexte de l'exposition
-**L’exposition Devenirs partagés : pratiques de l’IA** s’inscrit dans un contexte de recherche-création explorant des usages critiques et sensibles de l’intelligence artificielle. Présentée à **l’Université de Montréal**, elle réunit plusieurs artistes invités à expérimenter des approches alternatives aux imaginaires dominants de l’IA, souvent associés à l’automatisation.
+**L’exposition NANUALUK - EXPÉDITION NORDIQUE** s’inscrit dans un contexte de ...
 
-L’exposition invite plutôt à voir l’intelligence artificielle comme un outil de relation et de réflexion, qui permet de mieux comprendre les liens entre les humains, la technologie et leur environnement.
+L’exposition invite ...
 
 - Date de visite : **1er Avril 2026**
 - Type d'exposition: **Intérieure et Permanente**
 
 ## Présentation de l'oeuvre
-L’œuvre étudiée, **Terre commune (2025)** de **Marion Schneider**, est une **installation interactive** qui explore les liens entre le corps humain, la nature et les systèmes informatiques.
+Le dispositif étudiée, **Nom (2026)** de **Firme ou Créateur**, est une **type installation** qui ...
 
-<img src="./photo/vue_ensemble_oeuvre.jpg" alt="Une vue d'ensemble de l'oeuvre" width="600"> <img src="./photo/cartel.jpg" alt="Cartel de l'oeuvre" width="400">
+<img src="./photo/vue_ensemble_oeuvre.jpg" alt="Une vue d'ensemble du dispositif" width="600"> <img src="./photo/cartel.jpg" alt="Cartel du dispositif" width="400">
 
-> Oeuvre de Marion Schneider, *Terre commune*, 2025, présentée lors de l'exposition **DEVENIRS PARTAGÉS. PRATIQUES DE L'IA. 2026**, ainsi que son cartel d'informations.
+> Dispositf de (Nom), **Une glace fragile**, 2026, présentée lors de l'exposition **NANUALUK - EXPÉDITION NORDIQUE 2026**, ainsi que son texte explicatif.
 
 **Marion Schneider** est une artiste numérique basée à Montréal. Elle utilise l’installation, la programmation et les technologies interactives pour aborder des thèmes comme l’écologie, la perception et la relation entre les humains et les machines.
 
@@ -31,7 +31,7 @@ L’image change constamment selon l’état mental du participant, ce qui crée
 
 ## Organisation de l'installation
 
-<img src="./photo/croquis.jpg" alt="Croquis de l'oeuvre"> 
+<img src="./photo/croquis.jpg" alt="Texte explicatif du dispositif"> 
 
 > Croquis représentatif de comment est disposée l'oeuvre choisie.
 
