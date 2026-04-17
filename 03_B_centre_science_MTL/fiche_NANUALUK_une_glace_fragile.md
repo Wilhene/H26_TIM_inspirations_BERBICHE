@@ -1,9 +1,8 @@
-# DEVENIRS PARTAGES. PRATIQUES DE L'IA.
+# NANUALUK - EXPÉDITION NORDIQUE
 
 <img src="./photo/affiche.jpg" alt="affiche de l'exposition" width="400"/> <img src="./photo/lieu_exposition.jpg" alt="Moi devant le lieu de l'exposition" width="400"/>
 
 > À gauche figure une photo de l'affiche de l'exposition. À droite, une photo de moi devant le lieu où se tenait l'exposition. <br>
-> Photographe pour la photo de droite: Nguyen, Phu Thanh.
 
 ## Contexte de l'exposition
 **L’exposition Devenirs partagés : pratiques de l’IA** s’inscrit dans un contexte de recherche-création explorant des usages critiques et sensibles de l’intelligence artificielle. Présentée à **l’Université de Montréal**, elle réunit plusieurs artistes invités à expérimenter des approches alternatives aux imaginaires dominants de l’IA, souvent associés à l’automatisation.
