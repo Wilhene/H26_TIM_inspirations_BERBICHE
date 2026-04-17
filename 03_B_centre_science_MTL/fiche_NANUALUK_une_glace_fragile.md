@@ -9,8 +9,8 @@
 
 L’exposition invite plutôt à voir l’intelligence artificielle comme un outil de relation et de réflexion, qui permet de mieux comprendre les liens entre les humains, la technologie et leur environnement.
 
-- Date de visite : **30 janvier 2026**
-- Type d'exposition: **Intérieure et Temporaire**
+- Date de visite : **1er Avril 2026**
+- Type d'exposition: **Intérieure et Permanente**
 
 ## Présentation de l'oeuvre
 L’œuvre étudiée, **Terre commune (2025)** de **Marion Schneider**, est une **installation interactive** qui explore les liens entre le corps humain, la nature et les systèmes informatiques.
