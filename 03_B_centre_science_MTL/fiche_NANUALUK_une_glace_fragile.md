@@ -5,9 +5,9 @@
 > À gauche figure une photo de l'affiche de l'exposition. À droite, une photo de moi devant le lieu où se tenait l'exposition. <br>
 
 ## Contexte de l'exposition
-**L’exposition NANUALUK - EXPÉDITION NORDIQUE** s’inscrit dans un contexte de ...
+**L’exposition NANUALUK - EXPÉDITION NORDIQUE** s’inscrit dans une démarche de sensibilisation aux réalités du Nord canadien et aux enjeux environnementaux qui y sont liés. Présentée au **Centre des sciences de Montréal**, elle propose une expérience immersive qui met en lumière les impacts des changements climatiques sur les écosystèmes arctiques et les communautés qui y vivent.
 
-L’exposition invite ...
+L’exposition invite, à travers différentes installations interactives et immersives, les visiteurs à explorer le territoire nordique, à comprendre les défis liés à cet environnement extrême et à réfléchir à la relation entre les humains, la nature et le climat. Elle combine des éléments visuels, sonores et interactifs afin de créer une expérience éducative et engageante.
 
 - Date de visite : **1er Avril 2026**
 - Type d'exposition: **Intérieure et Permanente**
@@ -27,7 +27,7 @@ L’image change constamment selon l’état mental du participant, ce qui crée
 - Titre de l'oeuvre: Terre commune
 - Nom de l'artiste : Marion Schneider
 - Année de réalisation : 2025
-- Type d'installation: Interactive
+- Type d'installation: Interactive et immersive
 
 ## Organisation de l'installation
 
