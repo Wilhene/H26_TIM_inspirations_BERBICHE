@@ -15,7 +15,7 @@ L’exposition invite, à travers différentes installations interactives et imm
 ## Présentation du dispositif
 Le dispositif étudié, **Une glace fragile (2025)**, conçu par **l’équipe du Centre des sciences de Montréal** en collaboration avec la firme montréalaise **GSM Project**, est une installation **interactive** et **immersive** qui propose aux visiteurs de relever un défi lié à la vie dans l’Arctique.
 
-<img src="./photo/vue_ensemble_oeuvre.jpg" alt="Une vue d'ensemble du dispositif" width="600"> <img src="./photo/texte_explicatif.jpg" alt="texte explicatif dispositif" width="400">
+<img src="./photo/vue_ensemble_dispositif.jpg" alt="Une vue d'ensemble du dispositif" width="600"> <img src="./photo/texte_explicatif.jpg" alt="texte explicatif dispositif" width="400">
 
 > Dispositf de l’équipe du Centre des sciences de Montréal** en collaboration avec la firme montréalaise **GSM Project**, **Une glace fragile**, 2026, présentée lors de l'exposition **NANUALUK - EXPÉDITION NORDIQUE 2026**, ainsi que son texte explicatif.
 
