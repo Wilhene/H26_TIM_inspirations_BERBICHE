@@ -15,9 +15,9 @@ L’exposition invite, à travers différentes installations interactives et imm
 ## Présentation du dispositif
 Le dispositif étudié, **Une glace fragile (2025)**, conçu par **l’équipe du Centre des sciences de Montréal** en collaboration avec la firme montréalaise **GSM Project**, est une installation **interactive** et **immersive** qui propose aux visiteurs de relever un défi lié à la vie dans l’Arctique.
 
-<img src="./photo/vue_ensemble_dispositif.jpg" alt="Une vue d'ensemble du dispositif" width="600"> <img src="./photo/texte_explicatif.jpg" alt="texte explicatif dispositif" width="400">
+<img src="./photo/vue_ensemble_dispositif.jpg" alt="Une vue d'ensemble du dispositif" width="500"> <img src="./photo/texte_explicatif.jpg" alt="texte explicatif dispositif" width="500">
 
-> Dispositf de l’équipe du Centre des sciences de Montréal** en collaboration avec la firme montréalaise **GSM Project**, **Une glace fragile**, 2026, présentée lors de l'exposition **NANUALUK - EXPÉDITION NORDIQUE 2026**, ainsi que son texte explicatif.
+> Dispositf de l’équipe du **Centre des sciences de Montréal** en collaboration avec la firme montréalaise **GSM Project**, **Une glace fragile**, 2026, présentée lors de l'exposition **NANUALUK - EXPÉDITION NORDIQUE 2026**, ainsi que son texte explicatif.
 
 **GSM Project** est une firme montréalaise spécialisée dans la conception d’expositions muséales et d’expériences immersives. L’entreprise développe des installations qui combinent scénographie, technologies multimédias et interaction afin de rendre les contenus scientifiques et culturels plus accessibles au public.
 
@@ -33,23 +33,23 @@ La fonction du dispositif est de plonger les visiteurs dans une situation immers
 
 <img src="./photo/croquis.jpg" alt="croquis du dispositif"> 
 
-> Croquis représentatif de comment est disposée l'oeuvre choisie.
+> Croquis représentatif de comment est disposée le dispositif choisie.
 
 Dans l’espace d’exposition, le visiteur commence par scanner son badge sur une zone circulaire, ce qui active un écran situé juste au-dessus. Celui-ci présente un court contexte avant de diriger le participant vers la zone de jeu.
 
-<img src="./photo/composante_ordinateur.jpg" alt="Ordinateur sous le banc" width="600"> 
+<img src="./photo/composante_badge.jpg" alt="Badge utilisé pour interagir avec les dispositifs" width="300"> <img src="./photo/composante_zone_scan.jpg" alt="Zones de scan pour les badges" width="300"> <img src="./photo/composante_ecran_tactile.jpg" alt="Écran tactile" width="300"> 
 
 > Photo de l'une des composantes nécessaires à la conception de l'oeuvre.
 
 Sur la gauche, le dispositif principal est composé d’un harpon interactif permettant de contrôler le déplacement dans le jeu. Le visiteur doit tester différentes zones de glace avant d’avancer. Les mouvements du harpon sont captés par des capteurs dissimulés, ce qui permet de diriger le personnage à l’écran.
 
-<img src="./photo/composante_ecran.jpg" alt="Ecran où est diffusé les ondes" width="300"> <img src="./photo/composante_projecteur.jpg" alt="un projecteur" width="300"> <img src="./photo/composante_capteur.jpg" alt="Capteur mis sur le front" width="300"> 
+<img src="./photo/element_harpon.jpg" alt="Faux harpon en métal" width="300"> <img src="./photo/composante_capteurs.jpg" alt="un projecteur" width="300"> <img src="./photo/composante_bouton.jpg" alt="Bouton de validation intégré au faux harpon" width="300"> 
 
 > Photos d'autres composantes nécessaires à la conception de l'oeuvre.
 
 Un grand écran est placé devant le visiteur pour afficher le jeu, accompagné de haut-parleurs qui diffusent le son de l’expérience. Une fois le parcours terminé, le participant doit scanner une seconde zone pour valider l’activité et recevoir une récompense virtuelle.
 
-<img src="./photo/element_mur_blanc.jpg" alt="Projection des images sur un mur blanc" width="600"> 
+<img src="./photo/composante_grand_ecran.jpg" alt="Projection des images sur un mur blanc" width="600"> 
 
 > Photo de l’œuvre de Marion Schneider, *Terre commune*, 2025, présentée lors de l’exposition **DEVENIRS PARTAGÉS. PRATIQUES DE L’IA. 2026**, prise dans un angle pour accentuer les éléments nécessaires à une bonne présentation.
 
