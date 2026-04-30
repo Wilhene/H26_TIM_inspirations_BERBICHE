@@ -13,20 +13,20 @@ L’exposition invite, à travers différentes installations interactives et imm
 - Type d'exposition: **Intérieure et Permanente**
 
 ## Présentation du dispositif
-Le dispositif étudié, **Une glace fragile (2025)**, conçu par **l’équipe du Centre des sciences de Montréal** en collaboration avec la firme montréalaise **GSM Project**, est une installation **interactive** et **immersive** qui propose aux visiteurs de relever un défi lié à la vie dans l’Arctique.
+Le dispositif étudié, ***Une glace fragile*** **(2025)**, conçu par **l’équipe du Centre des sciences de Montréal** en collaboration avec la firme montréalaise **GSM Project**, est une installation **interactive** et **immersive** qui propose aux visiteurs de relever un défi lié à la vie dans l’Arctique.
 
 <img src="./photo/vue_ensemble_dispositif.jpg" alt="Une vue d'ensemble du dispositif" width="500"> <img src="./photo/texte_explicatif.jpg" alt="texte explicatif dispositif" width="500">
 
-> Dispositf de l’équipe du **Centre des sciences de Montréal** en collaboration avec la firme montréalaise **GSM Project**, **Une glace fragile**, 2026, présentée lors de l'exposition **NANUALUK - EXPÉDITION NORDIQUE 2026**, ainsi que son texte explicatif.
+> Dispositf de l’équipe du **Centre des sciences de Montréal** en collaboration avec la firme montréalaise **GSM Project**, ***Une glace fragile***, 2026, présentée lors de l'exposition **NANUALUK - EXPÉDITION NORDIQUE 2026**, ainsi que son texte explicatif.
 
 **GSM Project** est une firme montréalaise spécialisée dans la conception d’expositions muséales et d’expériences immersives. L’entreprise développe des installations qui combinent scénographie, technologies multimédias et interaction afin de rendre les contenus scientifiques et culturels plus accessibles au public.
 
-Dans Une glace fragile, les visiteurs doivent, par exemple, traverser un lac gelé en testant la solidité de la glace à l’aide d’un harpon, après avoir reçu des explications sur la bonne technique à utiliser. Ce type d’activité permet de comprendre concrètement les réalités et les dangers liés à cet environnement.
+Dans ***Une glace fragile***, les visiteurs doivent, par exemple, traverser un lac gelé en testant la solidité de la glace à l’aide d’un harpon, après avoir reçu des explications sur la bonne technique à utiliser. Ce type d’activité permet de comprendre concrètement les réalités et les dangers liés à cet environnement.
 
-- Titre de l'oeuvre: **Une glace fragile**
-- Nom de l'artiste : Centre des sciences de Montréal & GSM Project
-- Année de réalisation : 2025
-- Type d'installation: Interactive et immersive
+- Titre de l'oeuvre: ***Une glace fragile***
+- Nom de l'artiste : **Centre des sciences de Montréal & GSM Project**
+- Année de réalisation : **2025**
+- Type d'installation: **Interactive et immersive**
 
 ## Organisation de l'installation
 La fonction du dispositif est de plonger les visiteurs dans une situation immersive inspirée de la vie dans l’Arctique. À travers un mini-jeu interactif, les participants doivent traverser un lac gelé en utilisant un harpon pour tester la solidité de la glace. Le dispositif sert à la fois de mise en contexte et de support pédagogique, en permettant aux visiteurs de comprendre les dangers et les techniques utilisées dans cet environnement. En manipulant le harpon et en prenant des décisions, les participants vivent une expérience concrète qui les sensibilise aux réalités du Nord.
@@ -39,19 +39,21 @@ Dans l’espace d’exposition, le visiteur commence par scanner son badge sur u
 
 <img src="./photo/composante_badge.jpg" alt="Badge utilisé pour interagir avec les dispositifs" width="300"> <img src="./photo/composante_zone_scan.jpg" alt="Zones de scan pour les badges" width="300"> <img src="./photo/composante_ecran_tactile.jpg" alt="Écran tactile" width="300"> 
 
-> Photo de l'une des composantes nécessaires à la conception de l'oeuvre.
+> Première photo: Badge interactif utilisé pour interagir avec l'ensemble des dispositifs de l'exposition <br>
+> Deuxième et troisième photo: Quelques composantes nécessaire à la conception du dispositif
 
 Sur la gauche, le dispositif principal est composé d’un harpon interactif permettant de contrôler le déplacement dans le jeu. Le visiteur doit tester différentes zones de glace avant d’avancer. Les mouvements du harpon sont captés par des capteurs dissimulés, ce qui permet de diriger le personnage à l’écran.
 
 <img src="./photo/element_harpon.jpg" alt="Faux harpon en métal" width="300"> <img src="./photo/composante_capteurs.jpg" alt="un projecteur" width="300"> <img src="./photo/composante_bouton.jpg" alt="Bouton de validation intégré au faux harpon" width="300"> 
 
-> Photos d'autres composantes nécessaires à la conception de l'oeuvre.
+> Photos de quelques composantes nécessaires à la conception de l'oeuvre.
 
 Un grand écran est placé devant le visiteur pour afficher le jeu, accompagné de haut-parleurs qui diffusent le son de l’expérience. Une fois le parcours terminé, le participant doit scanner une seconde zone pour valider l’activité et recevoir une récompense virtuelle.
 
-<img src="./photo/composante_grand_ecran.jpg" alt="Projection des images sur un mur blanc" width="600"> 
+<img src="./photo/composante_grand_ecran.jpg" alt="Grand écran pour jouer avec le harpon" width="400"> <img src="./photo/composante_haut_parleur.jpg" alt="Haut-parleur" width="400"> 
 
-> Photo de l’œuvre de Marion Schneider, *Terre commune*, 2025, présentée lors de l’exposition **DEVENIRS PARTAGÉS. PRATIQUES DE L’IA. 2026**, prise dans un angle pour accentuer les éléments nécessaires à une bonne présentation.
+> Photo de gauche: Dispositf de l’équipe du **Centre des sciences de Montréal** en collaboration avec la firme montréalaise **GSM Project**, ***Une glace fragile***, 2026, présentée lors de l'exposition **NANUALUK - EXPÉDITION NORDIQUE 2026**, prise dans un angle pour accentuer une composante nécessaire à la conception du dispositif. <br>
+> Photo de droite: Une des composantes nécessaire à la conception du dispositif
 
 Composantes:
 - Badge interactif
@@ -82,8 +84,8 @@ Ce qui m’a particulièrement plu est le mini-jeu proposé. Il est facile à co
 Cependant, un aspect que je ne retiendrais pas dans une création personnelle concerne les zones de scan. Elles ne se désactivent pas après utilisation, ce qui permet à d’autres visiteurs de scanner leur badge pendant qu’une partie est en cours. Cela peut créer des bugs et empêcher le joueur de recevoir son insigne même s’il a réussi le défi. Pour améliorer ce point, il serait préférable de bloquer l’accès aux zones de scan pendant une partie.
 
 ## Références
-- Photographe pour toute la documentation : Berbiche, Wilhene <br>
+- Photographe pour toute la documentation : Berbiche, Wilhene
 
 Liens consultés:
-- (https://schneidermarion.net/](https://www.centredessciencesdemontreal.com/exposition-permanente/nanualuk-expedition-nordique)
-- (https://nouvelles.umontreal.ca/article/2025/12/04/quatre-artistes-repensent-l-intelligence-artificielle](https://www.lapresse.ca/arts/arts-visuels/2025-03-05/nanualuk/expedition-nordique-au-centre-des-sciences.php)
+- (https://www.centredessciencesdemontreal.com/exposition-permanente/nanualuk-expedition-nordique)
+- (https://www.lapresse.ca/arts/arts-visuels/2025-03-05/nanualuk/expedition-nordique-au-centre-des-sciences.php)
