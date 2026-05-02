@@ -1,7 +1,7 @@
 # PLAN ORAL LA PLANÈTE ROUGE
 
 ## Introduction
-Sujet posé : Je vais vous présenter le dispositif immersif La planète rouge, conçu par GSM Project, que j’ai expérimenté au Cosmodôme de Laval.
+Sujet posé : Je vais vous présenter le dispositif immersif La planète rouge, conçu par GSM Project, que j’ai expérimenté au Cosmodôme de Laval. <br>
 Sujet divisé : Je vais d’abord parler du lieu visité, ensuite expliquer le dispositif et son fonctionnement, puis mon expérience personnelle, mon appréciation critique, et enfin faire des liens avec d’autres œuvres vues cette session.
 
 ## Développement
